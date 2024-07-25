@@ -24,4 +24,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyada-Nishanth&layout=compact)
 
 
-📫 How to reach me: mariyadanishanth@gmail.com
+## 📫 How to reach me:
+📥mariyadanishanth@gmail.com
+🎮 slyerx
+
