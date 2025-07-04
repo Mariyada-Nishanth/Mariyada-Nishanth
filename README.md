@@ -19,7 +19,7 @@
 - **Other Tools:** Git, Docker 
 - **Soft Skills:** Teamwork, Communication, Problem-solving
 
-![Profile Picture](https://avatars.githubusercontent.com/u/176616311?s=400&u=b61ce38ae236cc0855f8ea8e20c8ff40881b556f&v=4)
+
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mariyada-Nishanth&show_icons=true)](https://github.com/Mariyada-Nishanth)
 
