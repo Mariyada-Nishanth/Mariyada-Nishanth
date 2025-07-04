@@ -12,8 +12,10 @@
 ## 🛠 Skills
 
 - **Languages:** Python, Java, JavaScript
-- **Web Development:** HTML, CSS, React, Node.js
-- **Database:** MySQL, MongoDB 
+- **Mobile Development:** React Native, Expo Go, AsyncStorage
+- **Web Development:** HTML, CSS, React
+- **Backend:** Supabase (Auth, Realtime DB, Storage), Node.js
+- **Database:** MySQL, PostgreSQL
 - **Other Tools:** Git, Docker 
 - **Soft Skills:** Teamwork, Communication, Problem-solving
 
