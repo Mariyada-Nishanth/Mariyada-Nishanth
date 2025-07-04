@@ -13,8 +13,8 @@
 
 - **Languages:** Python, Java, JavaScript
 - **Web Development:** HTML, CSS, React, Node.js
-- **Database:** MySQL, MongoDB
-- **Other Tools:** Git, Docker
+- **Database:** MySQL, MongoDB 
+- **Other Tools:** Git, Docker 
 - **Soft Skills:** Teamwork, Communication, Problem-solving
 
 ![Profile Picture](https://avatars.githubusercontent.com/u/176616311?s=400&u=b61ce38ae236cc0855f8ea8e20c8ff40881b556f&v=4)
@@ -26,5 +26,5 @@
 
 ## 📫 How to reach me:
 📥mariyadanishanth@gmail.com
-🎮 slyerx
+
 
